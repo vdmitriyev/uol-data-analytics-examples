@@ -1,0 +1,16 @@
+# files
+settings.py
+
+# extensions
+*.html
+
+# folders
+**/.ipynb_checkpoints
+PY/*
+HTML/*
+__pycache__/*
+htmls/*.html
+data/*
+archives/*
+
+db/*
