@@ -1,0 +1,24 @@
+# folders
+.ipynb_checkpoints/*
+python-csv-airbnb-live/*
+python-csv-airbnb-live-*/*
+**/.ipynb_checkpoints
+__pycache__/*
+**/__pycache__
+.venv/*
+.logs/*
+.vscode/*
+.downloads/*
+data/*
+temp/*
+.tox/*
+dist/*
+docs/_build/*
+generated/*
+
+# files
+README.html
+uol-data-analytics.zip
+_uol-data-analytics.zip
+
+
